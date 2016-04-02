@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nicocesar]]></title>
+        <description><![CDATA[nicocesar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Apr 2016 00:09:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trying out The Grid]]></title>
+            <description><![CDATA[<article><h1>Trying out The Grid</h1><p>Trying out The Grid: Is there anything besides text and a single picture? </p></article>]]></description>
+            <link>undefinedtrying-out-the-grid/index.html</link>
+            <guid isPermaLink="false">ea9c96d0-d9e4-4e6f-a82e-8202ebb16d44</guid>
+            <pubDate>Sat, 02 Apr 2016 00:08:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
